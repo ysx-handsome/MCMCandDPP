@@ -1,0 +1,63 @@
+nohup: ignoring input
+ranges: 
+ [[-9.04303375 -4.29695879]
+ [ 9.29938422 20.75138327]]
+AdaptiveMetropolis::init()
+initialize
+ beta: 0.03373619725628426, vol_range: 459.44715944867545, c_star: 15.500000000000002
+initialize_allocated_means multi
+initialize done
+SOMETHING WENT WRONG !!
+/data/cyw/MCMCandDPP/Python_code/pp_mix/src/jump/gamma.py:38: RuntimeWarning: invalid value encountered in log
+  num = np.log(prop) * nh - u * prop + gamma.logpdf(prop, a=self.alpha, scale=1 / self.beta)
+Running, iter # 200  /  10000
+Running, iter # 400  /  10000
+Running, iter # 600  /  10000
+Running, iter # 800  /  10000
+Running, iter # 1000  /  10000
+Running, iter # 1200  /  10000
+Running, iter # 1400  /  10000
+Running, iter # 1600  /  10000
+Running, iter # 1800  /  10000
+Running, iter # 2000  /  10000
+Running, iter # 2200  /  10000
+Running, iter # 2400  /  10000
+Running, iter # 2600  /  10000
+Running, iter # 2800  /  10000
+Running, iter # 3000  /  10000
+Running, iter # 3200  /  10000
+Running, iter # 3400  /  10000
+Running, iter # 3600  /  10000
+Running, iter # 3800  /  10000
+Running, iter # 4000  /  10000
+Running, iter # 4200  /  10000
+Running, iter # 4400  /  10000
+Running, iter # 4600  /  10000
+Running, iter # 4800  /  10000
+Running, iter # 5000  /  10000
+Running, iter # 5200  /  10000
+Running, iter # 5400  /  10000
+Running, iter # 5600  /  10000
+Running, iter # 5800  /  10000
+Running, iter # 6000  /  10000
+Running, iter # 6200  /  10000
+Running, iter # 6400  /  10000
+Running, iter # 6600  /  10000
+Running, iter # 6800  /  10000
+Running, iter # 7000  /  10000
+Running, iter # 7200  /  10000
+Running, iter # 7400  /  10000
+Running, iter # 7600  /  10000
+Running, iter # 7800  /  10000
+Running, iter # 8000  /  10000
+Running, iter # 8200  /  10000
+Running, iter # 8400  /  10000
+Running, iter # 8600  /  10000
+Running, iter # 8800  /  10000
+Running, iter # 9000  /  10000
+Running, iter # 9200  /  10000
+Running, iter # 9400  /  10000
+Running, iter # 9600  /  10000
+Running, iter # 9800  /  10000
+Running, iter # 10000  /  10000
+[<pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f072bc50>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f072d6d0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06db7d0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06eb290>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06e5310>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06e8890>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06e8510>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06e88d0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06e8150>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06ec110>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06f9ad0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06f9910>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06f9190>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0689710>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0689c10>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0689a10>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0689610>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0689990>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06cad10>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f069fc90>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06ee710>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0689a90>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0689d50>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0689fd0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0689890>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06a5c90>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06a5e10>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06a5650>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06a5150>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06a5ed0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06f9810>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06aa910>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06aa750>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06aad50>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06aaf10>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0692fd0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06922d0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0692090>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0692590>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0692790>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0692c50>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06a9e50>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06a9090>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06a9710>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06a9850>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06a9a50>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06b8650>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06b8450>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06b8e90>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06b8150>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06b8dd0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06aa790>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0646190>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0645550>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0645710>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0645950>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0645cd0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0645190>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0645490>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0646690>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06465d0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06462d0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06b46d0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06b4250>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06b40d0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06b4410>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06b4b90>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06452d0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06528d0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0652890>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0652050>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0650250>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0650a90>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0652a50>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0650cd0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0650bd0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0650a50>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f063c790>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f063c510>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f063c190>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f063ccd0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f063c7d0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f063c210>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0665a10>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0665310>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0665a90>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06657d0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0665210>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0650e50>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f066a810>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f066a990>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f066a2d0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f066f350>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f066f8d0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f066a290>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f066f750>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f066f0d0>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f066f650>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f0664c10>, <pp_mix.src.proto.proto.MultivariateMixtureState object at 0x7fd2f06646d0>]
